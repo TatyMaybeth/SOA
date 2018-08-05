@@ -1,0 +1,44 @@
+[
+  {
+    "id":"3",
+    "cliente":"123",
+    "vehiculo":{
+      "placa":"ABC1234",
+      "marca":"Fiat",
+      "modelo":"Fiat 1",
+      "color":"Verde",
+      "disponibilidad":"si",
+      "anio":"1990"
+    },
+    "fecha_reserva":"2018-01-01",
+    "fecha_entrega":"2018-02-02"
+  },
+  {
+    "id":"4",
+    "cliente":"345",
+    "vehiculo":{
+      "placa":"OKQ3456",
+      "marca":"Toyota",
+      "modelo":"Toyota 94",
+      "color":"Gris",
+      "disponibilidad":"si",
+      "anio":"1994"
+    },
+    "fecha_reserva":"2018-04-12",
+    "fecha_entrega":"2018-04-17"
+  },
+  {
+    "id":"5",
+    "cliente":"789",
+    "vehiculo":{
+      "placa":"POR0980",
+      "marca":"QW",
+      "modelo":"qw",
+      "color":"amarillo",
+      "disponibilidad":"no",
+      "anio":"2012"
+    },
+    "fecha_reserva":"2018-08-01",
+    "fecha_entrega":"2018-08-01"
+  }
+]
